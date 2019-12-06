@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: [Machine Learning in Python and R]
+description: [Linear Model Selection and Regularization]
+show_downloads: true

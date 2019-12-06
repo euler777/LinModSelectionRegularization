@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Linear Model Selection and Regularization
 
-You can use the [editor on GitHub](https://github.com/euler777/LinModSelectionRegularization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Motivation: In the following chapters, we would move from a linear world to non-linear one. Before extending the linear models to non-linear models, we discuss in this chapter some ways in which the simple linear model can be improved, by replacing plain least squares fitting with some alternative fitting procedures. These alternatives are just slight modifications of the traditional linear models, such as model selection and dimension reduction. Moreover, these approaches can be applied to other models, such as classification and logistic regressions. In one words, we try to select the “best predictors” among all candidates.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Main goal: To be aware of the model selection criteria such as the statistics Cp, AIC, BIC and adjusted R2, etc. To know the 3 classes of model selection methods: subset selection, shrinkage, dimension reduction.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/euler777/LinModSelectionRegularization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
